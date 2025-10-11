@@ -1,1 +1,1 @@
-Devops Project
+Devops Project [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/7EhBdtEhHLgiGKuL4RAcJj/9acSpy3vo5D1QuVARHzeYA/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/7EhBdtEhHLgiGKuL4RAcJj/9acSpy3vo5D1QuVARHzeYA/tree/main)
