@@ -1,3 +1,7 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1>Great Learning – Azure DevOps Lab Environment</h1>
+
+<h2>We are setting up your Azure DevOps labs. Please wait while the environment loads.</h2>
+
+<h3>This page is part of the Great Learning course content, where you will practice real-time Azure DevOps skills through hands-on labs.</h3>
+
+<h3>Thank you for learning with us.</h3>
